@@ -1,0 +1,29 @@
+* {
+  background-color: #00ECB9;
+  text-align: center; }
+
+#o {
+  box-sizing: border-box; }
+  #o .zag {
+    font-size: 24px;
+    color: #2F9F6C;
+    letter-spacing: -1.5px; }
+  #o span {
+    font-size: 28px;
+    color: white;
+    padding: 10px 15px;
+    background-color: #00816A;
+    border-radius: 5px;
+    font-weight: bold; }
+  #o .ins {
+    display: inline-block;
+    padding: 20px 5px 0px;
+    background-color: #00BF96;
+    border-radius: 5px;
+    margin-left: 10px; }
+    #o .ins p {
+      font-size: 18px;
+      color: #fff;
+      background-color: inherit; }
+
+/*# sourceMappingURL=main.css.map */
