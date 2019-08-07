@@ -3,32 +3,35 @@
   text-align: center;
 }
 
-#o {
-  box-sizing: border-box;
-  .zag {
-    font-size: 24px;
-    color: #2F9F6C;
-    letter-spacing: -1.5px;
-  }
-  span {
-    font-size: 28px;
-    color: white;
-    padding: 10px 15px;
-    background-color: #00816A;
-    border-radius: 5px;
-    font-weight: bold;
-  }
-  .ins {
-    display: inline-block;
-    padding: 20px 5px 0px;
-    background-color: #00BF96;
-    border-radius: 5px;
-    margin-left: 10px;
-    p {
-      font-size: 18px;
-      color: #fff;
-      background-color: inherit;
-    }
-  }
+.container {
+
 }
 
+.timer-caption {
+  font-size: 24px;
+  color: #2F9F6C;
+  letter-spacing: -1.5px;
+}
+
+.timer-date {
+  font-size: 28px;
+  color: white;
+  padding: 10px 15px;
+  background-color: #00816A;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.timer-date-wrapper {
+  display: inline-block;
+  padding: 20px 5px 0px;
+  background-color: #00BF96;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+.timer-date-title {
+  font-size: 18px;
+  color: #fff;
+  background-color: inherit;
+}
